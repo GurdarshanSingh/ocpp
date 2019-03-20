@@ -1,0 +1,30 @@
+<ocpp>
+	<configurations>
+		<conf>
+			<key></key>
+			<value></value>
+		</conf>
+		<conf>
+			<key></key>
+			<value></value>
+		</conf>
+	</configurations>
+	<mappings>
+		<mapping>
+			<key measurand="">start_timestamp</key>
+			<value>startTimestamp</value>
+		</mapping>
+		<mapping>
+			<key measurand="Energy.Active.Export.Register">Energy -1</key>
+			<value>energy1</value>
+		</mapping>
+		<mapping>
+			<key measurand="">start_timestamp</key>
+			<value>startTimestamp</value>
+		</mapping>
+		<mapping>
+			<key measurand="">start_timestamp</key>
+			<value>startTimestamp</value>
+		</mapping>
+	</mappings>
+</ocpp>
